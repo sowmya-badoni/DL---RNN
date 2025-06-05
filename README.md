@@ -27,8 +27,8 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: Mohammed Saajid S
-### Register Number: 212223240093
+### Name: SOWMYA BADONI
+### Register Number: 212223240211
 
 ```py
 import numpy as np
